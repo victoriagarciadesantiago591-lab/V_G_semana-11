@@ -1,15 +1,15 @@
 # V_G_semana-11
 
-# 📝 Registro de Ejercicios - Identificación del Alumno
+ Identificación del Alumno
 
 ## 👤 Datos del Alumno
 | Campo | Información |
 |-------|-------------|
 | Nombre completo | Victoria Garcia De Santiago  |
 | Número de control | 24308051220623 |
-| Grupo | [4-G] |
-| Grado | [4] |
-| Escuela | [ CBTIS 122] |
+| Grupo | 4-G |
+| Grado | 4 |
+| Escuela |  CBTIS 122|
 | Especialidad | Programación |
 
 ## 📘 Información del Ejercicio
